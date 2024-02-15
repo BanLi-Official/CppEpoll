@@ -1,0 +1,8 @@
+/mnt/hgfs/VMshared/code/c++/NetSample_Epoll_by_pthread/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/VMshared/code/c++/NetSample_Epoll_by_pthread/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/VMshared/code/c++/NetSample_Epoll_by_pthread/build/client/CMakeFiles/client.dir
+/mnt/hgfs/VMshared/code/c++/NetSample_Epoll_by_pthread/build/client/CMakeFiles/edit_cache.dir
+/mnt/hgfs/VMshared/code/c++/NetSample_Epoll_by_pthread/build/client/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/VMshared/code/c++/NetSample_Epoll_by_pthread/build/server/CMakeFiles/server.dir
+/mnt/hgfs/VMshared/code/c++/NetSample_Epoll_by_pthread/build/server/CMakeFiles/edit_cache.dir
+/mnt/hgfs/VMshared/code/c++/NetSample_Epoll_by_pthread/build/server/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc /mnt/hgfs/VMshared/code/c++/NetSample_Epoll_by_ThreadPool/lib/libMyThreadPoolLib.a CMakeFiles/MyThreadPoolLib.dir/ThreadPool.cpp.o CMakeFiles/MyThreadPoolLib.dir/taskQueue.cpp.o
+/usr/bin/ranlib /mnt/hgfs/VMshared/code/c++/NetSample_Epoll_by_ThreadPool/lib/libMyThreadPoolLib.a

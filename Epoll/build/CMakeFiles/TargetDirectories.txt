@@ -1,0 +1,8 @@
+/mnt/hgfs/VMshared/code/c++/Epoll/build/CMakeFiles/edit_cache.dir
+/mnt/hgfs/VMshared/code/c++/Epoll/build/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/VMshared/code/c++/Epoll/build/client/CMakeFiles/client.dir
+/mnt/hgfs/VMshared/code/c++/Epoll/build/client/CMakeFiles/edit_cache.dir
+/mnt/hgfs/VMshared/code/c++/Epoll/build/client/CMakeFiles/rebuild_cache.dir
+/mnt/hgfs/VMshared/code/c++/Epoll/build/server/CMakeFiles/server.dir
+/mnt/hgfs/VMshared/code/c++/Epoll/build/server/CMakeFiles/edit_cache.dir
+/mnt/hgfs/VMshared/code/c++/Epoll/build/server/CMakeFiles/rebuild_cache.dir
