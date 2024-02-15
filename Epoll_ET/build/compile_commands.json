@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/mnt/hgfs/VMshared/code/c++/Epoll_ET/build/client",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/client.dir/client.cpp.o -c /mnt/hgfs/VMshared/code/c++/Epoll_ET/client/client.cpp",
+  "file": "/mnt/hgfs/VMshared/code/c++/Epoll_ET/client/client.cpp",
+  "output": "client/CMakeFiles/client.dir/client.cpp.o"
+},
+{
+  "directory": "/mnt/hgfs/VMshared/code/c++/Epoll_ET/build/server",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/server.dir/server.cpp.o -c /mnt/hgfs/VMshared/code/c++/Epoll_ET/server/server.cpp",
+  "file": "/mnt/hgfs/VMshared/code/c++/Epoll_ET/server/server.cpp",
+  "output": "server/CMakeFiles/server.dir/server.cpp.o"
+}
+]
